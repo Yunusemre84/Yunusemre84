@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Yunus Emre Çelik 👋
 
-<!--
-**Yunusemre84/Yunusemre84** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Programming Student  
+💻 Interested in Software Development  
+🛠️ Skills: C#, HTML, CSS  
+🔍 Experience with Software Testing and Bug Fixing
 
-Here are some ideas to get you started:
+## About Me
+I'm a Computer Programming student interested in developing software, testing applications, and improving my technical skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technologies
+- C#
+- HTML
+- CSS
+
+## Current Goals
+- Improving my programming skills
+- Building practical software projects
+- Learning new technologies
